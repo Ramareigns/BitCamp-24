@@ -8,7 +8,7 @@ function Sigout() {
     const logoutFn = useLogoutFunction()
     const router = useRouter();
   return (
-    <button class="bg-white text-blue-500 py-2 px-4 rounded-lg hover:bg-blue-100 transition duration-300" onClick={() => {logoutFn(true);router.push('/')}}>
+    <button class="bg-white text-blue-950 py-2 px-4 rounded-lg hover:bg-blue-200 transition duration-300" onClick={() => {logoutFn(true);router.push('/')}}>
          Sign Out
     </button> 
   )

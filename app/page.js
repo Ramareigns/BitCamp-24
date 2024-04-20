@@ -23,12 +23,13 @@ export default function Home({  }) {
       />
     </div>
     <div className="flex flex-col items-center justify-center p-24 z-10">
-      <h1 className="text-black text-6xl mb-10">What Would you like</h1>
+      <h1 className="text-black text-8xl mb-3 font-bold">ProjectFM</h1>
+      <p className="text-black text-xl mb-10">Dicover the latest on housing and Climate Change</p>
       <a
         onClick = {()=>redirectToLoginPage({
           postLoginRedirectPath: window.location.href,
       })}
-        className="bg-white text-black cursor-pointer py-2 px-4 mb-5 rounded-lg hover:bg-blue-800 hover:text-white transition duration-300"
+        className="bg-white text-black cursor-pointer py-2 px-4 mb-5 rounded-lg hover:font-bold hover:bg-blue-950 hover:text-white transition duration-300"
       >
         Log In
       </a>
@@ -36,10 +37,13 @@ export default function Home({  }) {
         onClick = {()=>redirectToSignupPage({
           postLoginRedirectPath: window.location.href,
       })}
-        className="bg-white text-black py-2 px-4 cursor-pointer rounded-lg hover:bg-blue-800 hover:text-white transition duration-300"
+        className="bg-white text-black py-2 px-4 cursor-pointer rounded-lg hover:font-bold hover:bg-blue-950 hover:text-white transition duration-300"
       >
         Sign Up
       </a>
+      <div className="absolute bottom-5 text-center text-gray-800 cursor-pointer hover:font-bold hover:text-xl">
+          <a href="/MainAbout" className="text-lg">About</a>
+        </div>
     </div>
   </main>
   );
