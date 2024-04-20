@@ -1,13 +1,14 @@
 
-import {getUser} from "@propelauth/nextjs/server/app-router"; 
-import Sigout from "../sigout";
+"use client"
+
+import {useUser} from "@propelauth/nextjs/client"; 
 import Navbar from '../nav';
 
-export default async function Profile() {
+export default function Profile() {
 
-    const user = await getUser()
+    const {loading, user} = useUser()
 
-  console.log(user)
+
       
     return (
         <div className="flex flex-col bg-white items-center justify-center h-screen ">
