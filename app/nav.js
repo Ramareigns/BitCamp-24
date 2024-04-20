@@ -1,7 +1,5 @@
-import {getUser} from "@propelauth/nextjs/server/app-router"; 
 import Sigout from ".//sigout";
 
-const user = await getUser()
 export default function Nav() {
     return (
         <nav className="fixed top-0 left-0 right-0 z-10 bg-gray-800 text-white p-4">

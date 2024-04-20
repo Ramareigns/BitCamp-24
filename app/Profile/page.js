@@ -1,14 +1,12 @@
 
-"use client"
+"use client";
 
 import {useUser} from "@propelauth/nextjs/client"; 
 import Navbar from '../nav';
 
 export default function Profile() {
 
-    const {loading, user} = useUser()
-
-
+    const {loading, user} = useUser();
       
     return (
         <div className="flex flex-col bg-white items-center justify-center h-screen ">
@@ -18,12 +16,16 @@ export default function Profile() {
                 <img src="Beast.jpg" alt="Profile" className="rounded-full w-full h-full" />
             </div>
             {/* Email and full name */}
-            {user && ( 
-            <div className="p-10 text-center text-black">
+           {
+            user &&(
+                <div className="p-10 text-center text-black">
                 <p className="text-lg font-bold">{user.firstName} {user.lastName}</p>
                 <p className="text-sm text-gray-500">{user.email}</p>
             </div>
-            )}
+            )
+            }  
+            
+            
             <a href="" class="bg-white text-blue-500 py-2 px-4 rounded-lg hover:bg-blue-100 transition duration-300">
                  Edit Profile
             </a>
