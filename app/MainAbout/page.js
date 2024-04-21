@@ -2,7 +2,7 @@ import Navbar from '../nav2';
 
 export default function MainAbout() {
     return (
-        <div className="flex flex-col bg-white items-center justify-center h-screen ">
+        <div className="flex flex-col bg-white items-center p-60 justify-center h-screen ">
             <Navbar />
             <h1 class="text-black text-6xl font-bold p-10">
                 About

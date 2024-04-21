@@ -145,7 +145,7 @@ export default function Main() {
 
       <main className="flex-grow max-w-7xl mx-auto px-4 pt-10 sm:px-6 lg:px-8 overflow-y-auto">
         <h1 className="text-3xl font-bold text-gray-900 mt-20 text-center">Properties</h1>
-        <div className="mt-20 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <div className="mt-10 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
           {properties.map(property => (
             <div key={property.id} className="bg-white shadow-xl rounded-lg overflow-hidden">
               <img 

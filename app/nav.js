@@ -7,7 +7,7 @@ export default function Nav() {
             <div className="w-16 h-16"> {/* Adjusted width and height */}
                 <img src="Project.jpg" alt="Logo" className="rounded-full w-full h-full" />
             </div>
-            <div class = "py-2 px-3">
+            <div class = "py-2">
                 <a href="/Main" class="bg-white text-blue-950 py-2 px-4 mr-10 rounded-lg hover:bg-blue-200 transition duration-300">
                  Dashboard
                 </a>
