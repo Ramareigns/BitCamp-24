@@ -24,7 +24,7 @@ export default function Home({  }) {
     </div>
     <div className="flex flex-col items-center justify-center p-24 z-10">
       <h1 className="text-black text-8xl mb-3 font-bold">ProjectFM</h1>
-      <p className="text-black text-xl mb-10">Discover the latest on housing and Climate Change</p>
+      <p className="text-black text-xl mb-10">Data-Driven Homes, Climate-Informed Living</p>
       <a
         onClick = {()=>redirectToLoginPage({
           postLoginRedirectPath: window.location.href,
