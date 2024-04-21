@@ -1,0 +1,929 @@
+RegionID,RegionName,StateName,3/31/2024
+102001,United States,,913266
+394913,"New York, NY",NY,36219
+753899,"Los Angeles, CA",CA,14558
+394463,"Chicago, IL",IL,19049
+394514,"Dallas, TX",TX,22517
+394692,"Houston, TX",TX,22897
+395209,"Washington, DC",VA,8725
+394974,"Philadelphia, PA",PA,11064
+394856,"Miami, FL",FL,43370
+394347,"Atlanta, GA",GA,20721
+394404,"Boston, MA",MA,5999
+394976,"Phoenix, AZ",AZ,17906
+395057,"San Francisco, CA",CA,5176
+395025,"Riverside, CA",CA,11576
+394532,"Detroit, MI",MI,9915
+395078,"Seattle, WA",WA,5294
+394865,"Minneapolis, MN",MN,6775
+395056,"San Diego, CA",CA,4440
+395148,"Tampa, FL",FL,17323
+394530,"Denver, CO",CO,7429
+394358,"Baltimore, MD",MD,5089
+395121,"St. Louis, MO",MO,5898
+394943,"Orlando, FL",FL,11592
+394458,"Charlotte, NC",NC,7646
+395055,"San Antonio, TX",TX,10478
+394998,"Portland, OR",OR,5390
+395045,"Sacramento, CA",CA,3666
+394982,"Pittsburgh, PA",PA,5244
+394466,"Cincinnati, OH",OH,3830
+394355,"Austin, TX",TX,9693
+394775,"Las Vegas, NV",NV,7590
+394735,"Kansas City, MO",MO,4455
+394492,"Columbus, OH",OH,3514
+394705,"Indianapolis, IN",IN,5150
+394475,"Cleveland, OH",OH,4149
+395059,"San Jose, CA",CA,1557
+394902,"Nashville, TN",TN,6047
+395194,"Virginia Beach, VA",VA,4772
+395005,"Providence, RI",RI,2000
+394714,"Jacksonville, FL",FL,8524
+394862,"Milwaukee, WI",WI,2810
+394935,"Oklahoma City, OK",OK,5504
+395012,"Raleigh, NC",NC,2774
+394849,"Memphis, TN",TN,4509
+395022,"Richmond, VA",VA,2153
+394807,"Louisville, KY",KY,3060
+394910,"New Orleans, LA",LA,5155
+395053,"Salt Lake City, UT",UT,2531
+394669,"Hartford, CT",CT,1362
+394425,"Buffalo, NY",NY,1297
+394388,"Birmingham, AL",AL,3965
+395031,"Rochester, NY",NY,1103
+394640,"Grand Rapids, MI",MI,1296
+395167,"Tucson, AZ",AZ,3357
+753924,"Urban Honolulu, HI",HI,2848
+395169,"Tulsa, OK",OK,3519
+394619,"Fresno, CA",CA,1402
+395238,"Worcester, MA",MA,1185
+394938,"Omaha, NE",NE,1725
+394415,"Bridgeport, CT",CT,1446
+394653,"Greenville, SC",SC,2849
+394312,"Albuquerque, NM",NM,1816
+394357,"Bakersfield, CA",CA,1912
+394308,"Albany, NY",NY,1266
+394753,"Knoxville, TN",TN,2366
+394367,"Baton Rouge, LA",LA,2677
+394843,"McAllen, TX",TX,3213
+394908,"New Haven, CT",CT,1121
+394561,"El Paso, TX",TX,2944
+394318,"Allentown, PA",PA,1341
+394952,"Oxnard, CA",CA,1060
+394486,"Columbia, SC",SC,2330
+753906,"North Port, FL",FL,9026
+845158,"Dayton, OH",OH,1597
+394457,"Charleston, SC",SC,3156
+394648,"Greensboro, NC",NC,1627
+395134,"Stockton, CA",CA,1011
+394440,"Cape Coral, FL",FL,16505
+394399,"Boise City, ID",ID,1811
+394484,"Colorado Springs, CO",CO,2288
+394798,"Little Rock, AR",AR,2597
+394766,"Lakeland, FL",FL,4211
+394304,"Akron, OH",OH,1305
+394531,"Des Moines, IA",IA,2049
+395115,"Springfield, MA",MA,817
+845159,"Poughkeepsie, NY",NY,1619
+394931,"Ogden, UT",UT,1655
+394816,"Madison, WI",WI,1110
+395235,"Winston, NC",NC,1409
+394528,"Deltona, FL",FL,6024
+395143,"Syracuse, NY",NY,800
+395006,"Provo, UT",UT,1642
+395160,"Toledo, OH",OH,1162
+395224,"Wichita, KS",KS,1294
+394549,"Durham, NC",NC,1233
+394352,"Augusta, GA",GA,1837
+394957,"Palm Bay, FL",FL,4103
+394711,"Jackson, MS",MS,1875
+394666,"Harrisburg, PA",PA,800
+395113,"Spokane, WA",WA,1192
+395075,"Scranton, PA",PA,1064
+394460,"Chattanooga, TN",TN,2076
+394871,"Modesto, CA",CA,702
+394768,"Lancaster, PA",PA,467
+394997,"Portland, ME",ME,987
+395245,"Youngstown, OH",OH,1206
+394770,"Lansing, MI",MI,959
+394590,"Fayetteville, AR",AR,1808
+394589,"Fayetteville, NC",NC,1495
+394792,"Lexington, KY",KY,1046
+394971,"Pensacola, FL",FL,2772
+395068,"Santa Rosa, CA",CA,659
+395019,"Reno, NV",NV,1276
+394698,"Huntsville, AL",AL,1697
+394995,"Port St. Lucie, FL",FL,4631
+394761,"Lafayette, LA",LA,1184
+394898,"Myrtle Beach, SC",SC,6587
+395116,"Springfield, MO",MO,1301
+395195,"Visalia, CA",CA,711
+394746,"Killeen, TX",TX,2751
+394338,"Asheville, NC",NC,2027
+395244,"York, PA",PA,719
+395183,"Vallejo, CA",CA,647
+753917,"Santa Maria, CA",CA,565
+395050,"Salinas, CA",CA,436
+395048,"Salem, OR",OR,901
+394870,"Mobile, AL",AL,1408
+395015,"Reading, PA",PA,530
+394502,"Corpus Christi, TX",TX,2402
+394421,"Brownsville, TX",TX,1263
+394820,"Manchester, NH",NH,379
+394612,"Fort Wayne, IN",IN,809
+394658,"Gulfport, MS",MS,2184
+395051,"Salisbury, MD",DE,1885
+394596,"Flint, MI",MI,1027
+394972,"Peoria, IL",IL,874
+394439,"Canton, OH",OH,737
+395070,"Savannah, GA",GA,1547
+394327,"Anchorage, AK",AK,597
+394372,"Beaumont, TX",TX,1500
+395096,"Shreveport, LA",LA,1420
+395164,"Trenton, NJ",NJ,515
+394875,"Montgomery, AL",AL,1224
+394520,"Davenport, IA",IL,841
+395146,"Tallahassee, FL",FL,1057
+394576,"Eugene, OR",OR,866
+394901,"Naples, FL",FL,6690
+394332,"Ann Arbor, MI",MI,478
+394927,"Ocala, FL",FL,2835
+394679,"Hickory, NC",NC,1252
+394697,"Huntington, WV",OH,770
+394602,"Fort Collins, CO",CO,1130
+395033,"Rockford, IL",IL,540
+394796,"Lincoln, NE",NE,616
+394622,"Gainesville, FL",FL,1268
+394405,"Boulder, CO",CO,918
+394646,"Green Bay, WI",WI,718
+394488,"Columbus, GA",GA,903
+395107,"South Bend, IN",IN,799
+395109,"Spartanburg, SC",SC,1088
+394645,"Greeley, CO",CO,1103
+394808,"Lubbock, TX",TX,1418
+394471,"Clarksville, TN",TN,1096
+395028,"Roanoke, VA",VA,689
+394579,"Evansville, IN",IN,749
+394747,"Kingsport, TN",TN,849
+394741,"Kennewick, WA",WA,613
+395179,"Utica, NY",NY,451
+394660,"Hagerstown, MD",MD,568
+394543,"Duluth, MN",MN,548
+394937,"Olympia, WA",WA,446
+394803,"Longview, TX",TX,1100
+395229,"Wilmington, NC",NC,1131
+395061,"San Luis Obispo, CA",CA,560
+753875,"Crestview, FL",FL,3975
+394851,"Merced, CA",CA,403
+395197,"Waco, TX",TX,1250
+394447,"Cedar Rapids, IA",IA,705
+394348,"Atlantic City, NJ",NJ,1057
+394412,"Bremerton, WA",WA,410
+395103,"Sioux Falls, SD",SD,801
+395065,"Santa Cruz, CA",CA,329
+394572,"Erie, PA",PA,362
+394924,"Norwich, CT",CT,470
+394323,"Amarillo, TX",TX,1042
+394772,"Laredo, TX",TX,470
+395171,"Tuscaloosa, AL",AL,759
+394483,"College Station, TX",TX,1082
+394732,"Kalamazoo, MI",MI,466
+394811,"Lynchburg, VA",VA,648
+394455,"Charleston, WV",WV,510
+395240,"Yakima, WA",WA,365
+394585,"Fargo, ND",ND,571
+394387,"Binghamton, NY",NY,418
+394609,"Fort Smith, AR",AR,885
+394334,"Appleton, WI",WI,564
+845160,"Prescott Valley, AZ",AZ,1398
+395161,"Topeka, KS",KS,447
+394813,"Macon, GA",GA,970
+395174,"Tyler, TX",TX,1055
+394361,"Barnstable Town, MA",MA,992
+394519,"Daphne, AL",AL,2601
+394378,"Bellingham, WA",WA,384
+394429,"Burlington, VT",VT,263
+395030,"Rochester, MN",MN,463
+753895,"Lafayette, IN",IN,307
+394454,"Champaign, IL",IL,360
+394848,"Medford, OR",OR,722
+845164,"Lebanon, NH",NH,551
+394459,"Charlottesville, VA",VA,481
+394763,"Lake Charles, LA",LA,1017
+394773,"Las Cruces, NM",NM,655
+394464,"Chico, CA",CA,423
+394681,"Hilton Head Island, SC",SC,1750
+394346,"Athens, GA",GA,498
+394765,"Lake Havasu City, AZ",AZ,1587
+394485,"Columbia, MO",MO,509
+395114,"Springfield, IL",IL,378
+394691,"Houma, LA",LA,722
+394872,"Monroe, LA",LA,463
+394565,"Elkhart, IN",IN,357
+394726,"Johnson City, TN",TN,518
+395247,"Yuma, AZ",AZ,628
+394623,"Gainesville, GA",GA,675
+394716,"Jacksonville, NC",NC,776
+394597,"Florence, SC",SC,413
+394680,"Hilo, HI",HI,1085
+395118,"St. Cloud, MN",MN,343
+395011,"Racine, WI",WI,403
+394380,"Bend, OR",OR,774
+395047,"Saginaw, MI",MI,442
+395202,"Warner Robins, GA",GA,600
+395151,"Terre Haute, IN",IN,431
+395162,"Torrington, CT",CT,430
+395009,"Punta Gorda, FL",FL,4401
+394386,"Billings, MT",MT,591
+395018,"Redding, CA",CA,527
+394748,"Kingston, NY",NY,492
+394960,"Panama City, FL",FL,3309
+394729,"Joplin, MO",MO,510
+394539,"Dover, DE",DE,370
+394559,"El Centro, CA",CA,172
+394712,"Jackson, TN",TN,513
+395246,"Yuba City, CA",CA,305
+394406,"Bowling Green, KY",KY,553
+395119,"St. George, UT",UT,1415
+394896,"Muskegon, MI",MI,373
+394299,"Abilene, TX",TX,775
+394707,"Iowa City, IA",IA,414
+394351,"Auburn, AL",AL,517
+394860,"Midland, TX",TX,606
+753869,"Bloomington, IL",IL,219
+394671,"Hattiesburg, MS",MS,489
+394944,"Oshkosh, WI",WI,362
+394555,"Eau Claire, WI",WI,429
+394651,"Greenville, NC",NC,270
+394428,"Burlington, NC",NC,315
+395210,"Waterloo, IA",IA,356
+394480,"Coeur d'Alene, ID",ID,758
+394553,"East Stroudsburg, PA",PA,927
+395007,"Pueblo, CO",CO,866
+394392,"Blacksburg, VA",VA,248
+395215,"Wausau, WI",WI,328
+394731,"Kahului, HI",HI,824
+394720,"Janesville, WI",WI,353
+395170,"Tupelo, MS",MS,483
+394393,"Bloomington, IN",IN,460
+394930,"Odessa, TX",TX,375
+394710,"Jackson, MI",MI,367
+395125,"State College, PA",PA,189
+395079,"Sebastian, FL",FL,1962
+394814,"Madera, CA",CA,456
+394523,"Decatur, AL",AL,386
+394453,"Chambersburg, PA",PA,232
+395193,"Vineland, NJ",NJ,343
+394703,"Idaho Falls, ID",ID,409
+394639,"Grand Junction, CO",CO,680
+394563,"Elizabethtown, KY",KY,378
+394917,"Niles, MI",MI,401
+394873,"Monroe, MI",MI,309
+395066,"Santa Fe, NM",NM,610
+394493,"Concord, NH",NH,159
+394314,"Alexandria, LA",LA,382
+395163,"Traverse City, MI",MI,590
+394359,"Bangor, ME",ME,339
+394685,"Homosassa Springs, FL",FL,1513
+394662,"Hanford, CA",CA,208
+394723,"Jefferson City, MO",MO,273
+394598,"Florence, AL",AL,516
+394537,"Dothan, AL",AL,563
+394802,"London, KY",KY,346
+394306,"Albany, GA",GA,360
+845167,"Ottawa, IL",IL,346
+395102,"Sioux City, IA",IA,316
+395223,"Wichita Falls, TX",TX,696
+395152,"Texarkana, TX",TX,511
+395182,"Valdosta, GA",GA,440
+394800,"Logan, UT",UT,453
+394595,"Flagstaff, AZ",AZ,402
+395036,"Rocky Mount, NC",NC,337
+395000,"Pottsville, PA",PA,320
+394515,"Dalton, GA",GA,305
+394783,"Lebanon, PA",PA,176
+394880,"Morristown, TN",TN,406
+395232,"Winchester, VA",VA,295
+395221,"Wheeling, WV",OH,330
+394879,"Morgantown, WV",WV,245
+394756,"La Crosse, WI",WI,180
+394900,"Napa, CA",CA,251
+395013,"Rapid City, SD",SD,352
+395139,"Sumter, SC",SC,335
+394577,"Eureka, CA",CA,381
+395117,"Springfield, OH",OH,255
+394668,"Harrisonburg, VA",VA,172
+394368,"Battle Creek, MI",MI,297
+395094,"Sherman, TX",TX,904
+394821,"Manhattan, KS",KS,362
+394442,"Carbondale, IL",IL,514
+394727,"Johnstown, PA",PA,232
+394728,"Jonesboro, AR",AR,581
+394390,"Bismarck, ND",ND,298
+394661,"Hammond, LA",LA,360
+394983,"Pittsfield, MA",MA,339
+394890,"Mount Vernon, WA",WA,215
+394719,"Jamestown, NY",NY,241
+395153,"The Villages, FL",FL,600
+394307,"Albany, OR",OR,302
+394633,"Glens Falls, NY",NY,293
+394780,"Lawton, OK",OK,401
+394474,"Cleveland, TN",TN,461
+395098,"Sierra Vista, AZ",AZ,590
+394325,"Ames, IA",IA,268
+394824,"Mansfield, OH",OH,203
+395128,"Staunton, VA",VA,242
+394353,"Augusta, ME",ME,242
+394321,"Altoona, PA",PA,209
+394905,"New Bern, NC",NC,417
+394588,"Farmington, NM",NM,148
+395120,"St. Joseph, MO",MO,273
+395054,"San Angelo, TX",TX,491
+395218,"Wenatchee, WA",WA,269
+394949,"Owensboro, KY",KY,290
+753890,"Holland, MI",MI,193
+394810,"Lumberton, NC",NC,177
+394778,"Lawrence, KS",KS,188
+394635,"Goldsboro, NC",NC,253
+395213,"Watertown, NY",NY,279
+395089,"Sheboygan, WI",WI,177
+395217,"Weirton, WV",OH,298
+394867,"Missoula, MT",MT,397
+395237,"Wooster, OH",OH,137
+394407,"Bozeman, MT",MT,427
+394333,"Anniston, AL",AL,315
+394374,"Beckley, WV",WV,274
+395225,"Williamsport, PA",PA,164
+394423,"Brunswick, GA",GA,567
+753872,"California, MD",MD,202
+395173,"Twin Falls, ID",ID,368
+394495,"Cookeville, TN",TN,402
+394893,"Muncie, IN",IN,308
+394857,"Michigan City, IN",IN,286
+395039,"Roseburg, OR",OR,385
+394788,"Lewiston, ME",ME,160
+394804,"Longview, WA",WA,331
+394932,"Ogdensburg, NY",NY,274
+394734,"Kankakee, IL",IL,256
+394396,"Bluefield, WV",VA,196
+395095,"Show Low, AZ",AZ,431
+395023,"Richmond, KY",KY,230
+395168,"Tullahoma, TN",TN,394
+395222,"Whitewater, WI",WI,384
+394709,"Ithaca, NY",NY,102
+394637,"Grand Forks, ND",MN,257
+394524,"Decatur, IL",IL,236
+394762,"LaGrange, GA",GA,299
+394369,"Bay City, MI",MI,232
+394599,"Fond du Lac, WI",WI,195
+394630,"Gettysburg, PA",PA,137
+394620,"Gadsden, AL",AL,318
+394733,"Kalispell, MT",MT,864
+394518,"Danville, VA",VA,255
+394823,"Mankato, MN",MN,138
+394794,"Lima, OH",OH,243
+753915,"Salem, OH",OH,258
+395166,"Truckee, CA",CA,382
+395080,"Sebring, FL",FL,1053
+394462,"Cheyenne, WY",WY,352
+394689,"Hot Springs, AR",AR,705
+394302,"Adrian, MI",MI,268
+395090,"Shelby, NC",NC,335
+394542,"Dubuque, IA",IA,168
+394852,"Meridian, MS",MS,205
+753912,"Pinehurst, NC",NC,364
+394953,"Paducah, KY",KY,322
+395190,"Victoria, TX",TX,434
+395038,"Rome, GA",GA,342
+395086,"Sevierville, TN",TN,1210
+394882,"Moses Lake, WA",WA,181
+394340,"Ashtabula, OH",OH,217
+394441,"Cape Girardeau, MO",MO,311
+394311,"Albertville, AL",AL,310
+394580,"Fairbanks, AK",AK,217
+394410,"Brainerd, MN",MN,318
+394513,"Cumberland, MD",MD,261
+394928,"Ocean City, NJ",NJ,749
+394505,"Corvallis, OR",OR,159
+394988,"Pocatello, ID",ID,274
+394501,"Corning, NY",NY,190
+394911,"New Philadelphia, OH",OH,133
+395140,"Sunbury, PA",PA,173
+395175,"Ukiah, CA",CA,264
+753887,"Hermiston, OR",OR,240
+394469,"Clarksburg, WV",WV,159
+394964,"Parkersburg, WV",WV,198
+394373,"Beaver Dam, WI",WI,143
+394980,"Pine Bluff, AR",AR,290
+394641,"Grants Pass, OR",OR,364
+394511,"Cullman, AL",AL,341
+394809,"Lufkin, TX",TX,278
+395248,"Zanesville, OH",OH,171
+394907,"New Castle, PA",PA,240
+394925,"Oak Harbor, WA",WA,230
+394942,"Orangeburg, SC",SC,182
+395212,"Watertown, WI",WI,144
+394847,"Meadville, PA",PA,137
+394568,"Elmira, NY",NY,162
+394644,"Great Falls, MT",MT,256
+394776,"Laurel, MS",MS,190
+395042,"Russellville, AR",AR,280
+394704,"Indiana, PA",PA,141
+394859,"Midland, MI",MI,135
+394755,"Kokomo, IN",IN,241
+394395,"Bloomsburg, PA",PA,115
+394941,"Opelousas, LA",LA,212
+394675,"Helena, MT",MT,331
+394744,"Key West, FL",FL,1395
+395145,"Talladega, AL",AL,239
+395133,"Stillwater, OK",OK,265
+394489,"Columbus, IN",IN,173
+394345,"Athens, TX",TX,738
+394452,"Centralia, WA",WA,244
+394822,"Manitowoc, WI",WI,164
+394682,"Hinesville, GA",GA,389
+394541,"DuBois, PA",PA,156
+395205,"Warsaw, IN",IN,213
+394986,"Plattsburgh, NY",NY,167
+395126,"Statesboro, GA",GA,161
+394445,"Casper, WY",WY,200
+395231,"Wilson, NC",NC,150
+753881,"Glenwood Springs, CO",CO,416
+395085,"Seneca, SC",SC,452
+394866,"Minot, ND",ND,180
+394936,"Olean, NY",NY,186
+394465,"Chillicothe, OH",OH,108
+395077,"Searcy, AR",AR,228
+394638,"Grand Island, NE",NE,139
+394994,"Port Angeles, WA",WA,191
+394350,"Auburn, NY",NY,103
+394699,"Huntsville, TX",TX,295
+394738,"Keene, NH",NH,93
+394674,"Heber, UT",UT,985
+395010,"Quincy, IL",IL,178
+395062,"Sandusky, OH",OH,171
+394593,"Findlay, OH",OH,134
+394614,"Frankfort, KY",KY,167
+394516,"Danville, IL",IL,167
+394298,"Aberdeen, WA",WA,347
+394999,"Portsmouth, OH",OH,133
+395106,"Somerset, PA",PA,148
+753928,"Wisconsin Rapids, WI",WI,193
+753893,"Jefferson, GA",GA,374
+394736,"Kapaa, HI",HI,273
+394955,"Palatka, FL",FL,338
+394626,"Gallup, NM",NM,34
+394683,"Hobbs, NM",NM,122
+395088,"Shawnee, OK",OK,324
+786258,"Fort Payne, AL",AL,169
+394884,"Mount Airy, NC",NC,147
+395132,"Stevens Point, WI",WI,123
+394647,"Greeneville, TN",TN,216
+394655,"Greenwood, SC",SC,196
+394764,"Lake City, FL",FL,233
+394752,"Klamath Falls, OR",OR,332
+394877,"Morehead City, NC",NC,438
+394472,"Clearlake, CA",CA,402
+394305,"Alamogordo, NM",NM,245
+395027,"Roanoke Rapids, NC",NC,177
+394587,"Farmington, MO",MO,251
+394897,"Muskogee, OK",OK,229
+394826,"Marion, IN",IN,181
+394586,"Faribault, MN",MN,104
+395021,"Richmond, IN",IN,111
+394829,"Marquette, MI",MI,155
+394922,"North Wilkesboro, NC",NC,145
+394885,"Mount Pleasant, MI",MI,120
+395024,"Rio Grande City, TX",TX,117
+394827,"Marion, OH",OH,129
+394360,"Baraboo, WI",WI,181
+395016,"Red Bluff, CA",CA,213
+394825,"Marinette, WI",WI,187
+845163,"Jasper, AL",AL,176
+395040,"Roswell, NM",NM,226
+395092,"Shelton, WA",WA,165
+394540,"Dublin, GA",GA,128
+394899,"Nacogdoches, TX",TX,155
+395105,"Somerset, KY",KY,296
+394496,"Coos Bay, OR",OR,302
+394600,"Forest City, NC",NC,343
+394836,"Martinsville, VA",VA,151
+395020,"Rexburg, ID",ID,160
+394787,"Lewiston, ID",ID,186
+394759,"Laconia, NH",NH,170
+394629,"Georgetown, SC",SC,470
+394343,"Athens, OH",OH,92
+395063,"Sanford, NC",NC,155
+394570,"Enid, OK",OK,219
+394889,"Mount Vernon, OH",OH,127
+395199,"Walla Walla, WA",WA,156
+394309,"Albemarle, NC",NC,217
+394701,"Hutchinson, KS",KS,129
+394693,"Hudson, NY",NY,271
+395124,"Starkville, MS",MS,100
+394443,"Carlsbad, NM",NM,134
+394631,"Gillette, WY",WY,150
+395136,"Sturgis, MI",MI,123
+395044,"Rutland, VT",VT,141
+394509,"Crossville, TN",TN,359
+845162,"Granbury, TX",TX,535
+395071,"Sayre, PA",PA,90
+395049,"Salina, KS",KS,142
+753903,"Marietta, OH",OH,141
+394591,"Fergus Falls, MN",MN,203
+394362,"Barre, VT",VT,86
+394618,"Fremont, OH",OH,84
+394939,"Oneonta, NY",NY,229
+394490,"Columbus, MS",MS,182
+394923,"Norwalk, OH",OH,85
+394365,"Batavia, NY",NY,66
+394336,"Ardmore, OK",OK,313
+394956,"Palestine, TX",TX,206
+394605,"Fort Madison, IA",IA,142
+394456,"Charleston, IL",IL,98
+394592,"Fernley, NV",NV,237
+394444,"Carson City, NV",NV,145
+394551,"Eagle Pass, TX",TX,175
+394432,"Calhoun, GA",GA,178
+753877,"Cullowhee, NC",NC,404
+394737,"Kearney, NE",NE,103
+394582,"Fairmont, WV",WV,119
+394940,"Ontario, OR",OR,171
+394621,"Gaffney, SC",SC,140
+394977,"Picayune, MS",MS,188
+395131,"Sterling, IL",IL,126
+394411,"Branson, MO",MO,526
+394446,"Cedar City, UT",UT,313
+395216,"Waycross, GA",GA,186
+394951,"Oxford, MS",MS,169
+394721,"Jasper, IN",IN,130
+394556,"Edwards, CO",CO,360
+394547,"Durango, CO",CO,243
+394750,"Kinston, NC",NC,110
+753920,"Sonora, CA",CA,286
+395157,"Tiffin, OH",OH,68
+394366,"Batesville, AR",AR,229
+394989,"Point Pleasant, WV",OH,80
+394566,"Elko, NV",NV,194
+394517,"Danville, KY",KY,166
+394632,"Glasgow, KY",KY,192
+395122,"St. Marys, GA",GA,284
+394402,"Boone, NC",NC,534
+395204,"Warrensburg, MO",MO,161
+394634,"Gloversville, NY",NY,138
+394604,"Fort Leonard Wood, MO",MO,198
+394993,"Poplar Bluff, MO",MO,274
+394562,"Elizabeth City, NC",NC,167
+394967,"Payson, AZ",AZ,308
+394344,"Athens, TN",TN,201
+394571,"Enterprise, AL",AL,198
+394339,"Ashland, OH",OH,61
+395073,"Scottsboro, AL",AL,121
+394861,"Milledgeville, GA",GA,183
+394742,"Kerrville, TX",TX,348
+394363,"Bartlesville, OK",OK,173
+394985,"Platteville, WI",WI,103
+394503,"Corsicana, TX",TX,286
+394652,"Greenville, OH",OH,104
+395029,"Rochelle, IL",IL,112
+786250,"Alexander City, AL",AL,200
+394538,"Douglas, GA",GA,79
+394933,"Oil City, PA",PA,122
+394838,"Mason City, IA",IA,189
+394717,"Jacksonville, TX",TX,216
+394625,"Galesburg, IL",IL,121
+394954,"Pahrump, NV",NV,280
+394963,"Paris, TX",TX,240
+395234,"Winona, MN",MN,59
+753905,"Newport, OR",OR,390
+394878,"Morgan City, LA",LA,105
+395091,"Shelbyville, TN",TN,167
+394326,"Amsterdam, NY",NY,101
+753911,"Ozark, AL",AL,158
+394316,"Alice, TX",TX,184
+394628,"Gardnerville Ranchos, NV",NV,254
+394608,"Fort Polk South, LA",LA,129
+394437,"Ca-¦on City, CO",CO,272
+394903,"Natchez, MS",LA,180
+394906,"New Castle, IN",IN,131
+394478,"Clovis, NM",NM,198
+394919,"Norfolk, NE",NE,105
+394431,"Cadillac, MI",MI,118
+395043,"Ruston, LA",LA,87
+395097,"Sidney, OH",OH,92
+395008,"Pullman, WA",WA,107
+394819,"Malone, NY",NY,105
+394527,"Del Rio, TX",TX,192
+394391,"Blackfoot, ID",ID,109
+395017,"Red Wing, MN",MN,104
+394918,"Nogales, AZ",AZ,201
+395144,"Tahlequah, OK",OK,251
+394739,"Kendallville, IN",IN,97
+394876,"Montrose, CO",CO,321
+394504,"Cortland, NY",NY,61
+394887,"Mount Sterling, KY",KY,153
+394477,"Clinton, IA",IA,128
+753916,"Sandpoint, ID",ID,261
+753865,"Bardstown, KY",KY,194
+395201,"Wapakoneta, OH",OH,88
+394987,"Plymouth, IN",IN,108
+394789,"Lewistown, PA",PA,71
+394379,"Bemidji, MN",MN,102
+394377,"Bellefontaine, OH",OH,148
+395087,"Seymour, IN",IN,83
+394426,"Burley, ID",ID,105
+394548,"Durant, OK",OK,251
+394883,"Moultrie, GA",GA,67
+394398,"Bogalusa, LA",LA,108
+394500,"Cornelia, GA",GA,156
+753889,"Hillsdale, MI",MI,105
+395155,"Thomasville, GA",GA,176
+394961,"Paragould, AR",AR,165
+394650,"Greenville, MS",MS,87
+394427,"Burlington, IA",IA,139
+394817,"Madisonville, KY",KY,114
+394850,"Menomonie, WI",WI,112
+753918,"Shawano, WI",WI,107
+395189,"Vicksburg, MS",MS,128
+394375,"Bedford, IN",IN,177
+786259,"Grand Rapids, MN",MN,108
+395208,"Washington, NC",NC,118
+394616,"Freeport, IL",IL,131
+394667,"Harrison, AR",AR,222
+395037,"Rolla, MO",MO,140
+394482,"Coldwater, MI",MI,132
+753904,"Marion, NC",NC,203
+394695,"Huntingdon, PA",PA,93
+394567,"Ellensburg, WA",WA,151
+394990,"Ponca City, OK",OK,167
+394779,"Lawrenceburg, TN",TN,153
+394842,"McAlester, OK",OK,300
+394886,"Mount Pleasant, TX",TX,182
+395228,"Willmar, MN",MN,77
+395034,"Rockingham, NC",NC,88
+394895,"Muscatine, IA",IA,104
+394785,"Lewisburg, PA",PA,58
+394349,"Auburn, IN",IN,85
+394545,"Duncan, OK",OK,176
+395081,"Sedalia, MO",MO,150
+394448,"Cedartown, GA",GA,151
+394677,"Henderson, NC",NC,90
+394297,"Aberdeen, SD",SD,99
+395032,"Rock Springs, WY",WY,104
+394627,"Garden City, KS",KS,111
+395129,"Stephenville, TX",TX,203
+394449,"Celina, OH",OH,56
+395230,"Wilmington, OH",OH,78
+394424,"Bucyrus, OH",OH,86
+394319,"Alma, MI",MI,73
+394558,"El Campo, TX",TX,152
+394891,"Mountain Home, AR",AR,320
+394624,"Gainesville, TX",TX,248
+395158,"Tifton, GA",GA,85
+394397,"Blytheville, AR",AR,113
+394845,"McMinnville, TN",TN,148
+394341,"Astoria, OR",OR,212
+394409,"Bradford, PA",PA,71
+394574,"Espa-¦ola, NM",NM,92
+394844,"McComb, MS",MS,110
+753866,"Big Stone Gap, VA",VA,89
+394833,"Marshalltown, IA",IA,55
+394384,"Big Rapids, MI",MI,125
+394354,"Austin, MN",MN,90
+395082,"Selinsgrove, PA",PA,34
+395219,"West Plains, MO",MO,203
+394934,"Okeechobee, FL",FL,275
+394690,"Houghton, MI",MI,92
+394881,"Moscow, ID",ID,75
+394476,"Clewiston, FL",FL,463
+395026,"Riverton, WY",WY,170
+394560,"El Dorado, AR",AR,74
+395083,"Selma, AL",AL,110
+394981,"Pittsburg, KS",KS,92
+394663,"Hannibal, MO",MO,140
+395203,"Warren, PA",PA,73
+394315,"Alexandria, MN",MN,93
+395178,"Urbana, OH",OH,85
+394654,"Greenwood, MS",MS,80
+394434,"Cambridge, OH",OH,98
+395227,"Williston, ND",ND,86
+394526,"Defiance, OH",OH,54
+395099,"Sikeston, MO",MO,164
+395046,"Safford, AZ",AZ,74
+394715,"Jacksonville, IL",IL,58
+394300,"Ada, OK",OK,124
+394422,"Brownwood, TX",TX,256
+394507,"Crawfordsville, IN",IN,106
+394801,"Logansport, IN",IN,77
+395072,"Scottsbluff, NE",NE,131
+394904,"Natchitoches, LA",LA,107
+394914,"Newberry, SC",SC,61
+394799,"Lock Haven, PA",PA,90
+394451,"Centralia, IL",IL,84
+394554,"Easton, MD",MD,127
+394948,"Owatonna, MN",MN,57
+394888,"Mount Vernon, IL",IL,70
+845165,"Minden, LA",LA,88
+394771,"Laramie, WY",WY,63
+394894,"Murray, KY",KY,109
+394617,"Fremont, NE",NE,102
+394382,"Bennington, VT",VT,93
+394603,"Fort Dodge, IA",IA,116
+395069,"Sault Ste. Marie, MI",MI,114
+394436,"Campbellsville, KY",KY,127
+394550,"Dyersburg, TN",TN,103
+786251,"Atmore, AL",AL,91
+394573,"Escanaba, MI",MI,104
+394840,"Mayfield, KY",KY,102
+394745,"Kill Devil Hills, NC",NC,341
+395137,"Sulphur Springs, TX",TX,153
+394702,"Hutchinson, MN",MN,52
+394506,"Coshocton, OH",OH,78
+394696,"Huntington, IN",IN,75
+394522,"DeRidder, LA",LA,148
+395192,"Vincennes, IN",IN,91
+394370,"Bay City, TX",TX,216
+394920,"North Platte, NE",NE,93
+394973,"Peru, IN",IN,68
+394992,"Pontiac, IL",IL,69
+394781,"Lebanon, MO",MO,148
+394915,"Newport, TN",TN,123
+394525,"Decatur, IN",IN,46
+395191,"Vidalia, GA",GA,65
+394413,"Brenham, TX",TX,158
+395187,"Vernal, UT",UT,207
+786252,"Bonham, TX",TX,262
+394947,"Ottumwa, IA",IA,89
+394430,"Butte, MT",MT,133
+394499,"Corinth, MS",MS,94
+394417,"Brookhaven, MS",MS,74
+394569,"Emporia, KS",KS,52
+394713,"Jackson, WY",WY,270
+845172,"Winfield, KS",KS,127
+394385,"Big Spring, TX",TX,163
+394557,"Effingham, IL",IL,81
+394536,"Dodge City, KS",KS,65
+395211,"Watertown, SD",SD,92
+394331,"Angola, IN",IN,103
+394535,"Dixon, IL",IL,68
+394777,"Laurinburg, NC",NC,54
+395149,"Taos, NM",NM,197
+394419,"Brookings, SD",SD,44
+394324,"Americus, GA",GA,56
+394491,"Columbus, NE",NE,74
+395150,"Taylorville, IL",IL,72
+394335,"Arcadia, FL",FL,166
+394786,"Lewisburg, TN",TN,108
+395084,"Seneca Falls, NY",NY,39
+394533,"Dickinson, ND",ND,87
+786262,"Pella, IA",IA,77
+395207,"Washington, IN",IN,68
+395165,"Troy, AL",AL,93
+753902,"Malvern, AR",AR,88
+394613,"Frankfort, IN",IN,57
+394815,"Madison, IN",IN,77
+394414,"Brevard, NC",NC,240
+395141,"Susanville, CA",CA,161
+394835,"Martin, TN",TN,78
+394984,"Plainview, TX",TX,110
+845166,"Mount Gay, WV",WV,33
+753878,"Dayton, TN",TN,92
+753892,"Jackson, OH",OH,81
+394433,"Cambridge, MD",MD,146
+394962,"Paris, TN",TN,125
+786261,"Jennings, LA",LA,91
+394730,"Juneau, AK",AK,37
+394481,"Coffeyville, KS",KS,143
+394774,"Las Vegas, NM",NM,114
+394383,"Berlin, NH",NH,124
+394473,"Cleveland, MS",MS,38
+394670,"Hastings, NE",NE,61
+394376,"Beeville, TX",TX,131
+394749,"Kingsville, TX",TX,88
+395196,"Wabash, IN",IN,83
+753871,"Breckenridge, CO",CO,334
+786264,"St. Marys, PA",PA,46
+786255,"Central City, KY",KY,77
+394310,"Albert Lea, MN",MN,61
+395093,"Sheridan, WY",WY,161
+395176,"Union City, TN",TN,78
+394855,"Miami, OK",OK,99
+394708,"Iron Mountain, MI",MI,91
+394725,"Jesup, GA",GA,80
+394846,"McPherson, KS",KS,73
+394751,"Kirksville, MO",MO,111
+753901,"Ludington, MI",MI,87
+394356,"Bainbridge, GA",GA,83
+394320,"Alpena, MI",MI,72
+395206,"Washington Court House, OH",OH,62
+394673,"Hays, KS",KS,78
+394606,"Fort Morgan, CO",CO,117
+395185,"Van Wert, OH",OH,75
+786260,"Hope, AR",AR,51
+394740,"Kennett, MO",MO,98
+753926,"Weatherford, OK",OK,110
+394892,"Mountain Home, ID",ID,67
+394864,"Mineral Wells, TX",TX,291
+394795,"Lincoln, IL",IL,59
+395100,"Silver City, NM",NM,113
+753879,"Elkins, WV",WV,33
+845161,"Bluffton, IN",IN,45
+394812,"Macomb, IL",IL,91
+394435,"Camden, AR",AR,88
+394508,"Crescent City, CA",CA,83
+394921,"North Vernon, IN",IN,60
+786256,"Eufaula, AL",AL,89
+395154,"Thomaston, GA",GA,98
+845171,"Union, SC",SC,54
+394642,"Grants, NM",NM,33
+394381,"Bennettsville, SC",SC,23
+394615,"Fredericksburg, TX",TX,268
+395159,"Toccoa, GA",GA,119
+753923,"The Dalles, OR",OR,98
+394649,"Greensburg, IN",IN,66
+394706,"Indianola, MS",MS,23
+394758,"La Grande, OR",OR,98
+753909,"Ottawa, KS",KS,63
+394912,"New Ulm, MN",MN,34
+394791,"Lexington, NE",NE,72
+394643,"Great Bend, KS",KS,62
+395110,"Spearfish, SD",SD,94
+395214,"Wauchula, FL",FL,51
+394830,"Marshall, MN",MN,45
+394529,"Deming, NM",NM,72
+394854,"Mexico, MO",MO,80
+394584,"Fallon, NV",NV,74
+394322,"Altus, OK",OK,99
+395181,"Uvalde, TX",TX,134
+753884,"Hailey, ID",ID,159
+753921,"Steamboat Springs, CO",CO,147
+395138,"Summerville, GA",GA,74
+394869,"Moberly, MO",MO,93
+394858,"Middlesborough, KY",KY,65
+395236,"Woodward, OK",OK,105
+395004,"Prineville, OR",OR,141
+845170,"Scottsburg, IN",IN,60
+845169,"Rockport, TX",TX,434
+394687,"Hood River, OR",OR,55
+394601,"Forrest City, AR",AR,36
+394494,"Connersville, IN",IN,61
+394868,"Mitchell, SD",SD,62
+394831,"Marshall, MO",MO,71
+394418,"Brookings, OR",OR,170
+395241,"Yankton, SD",SD,40
+395198,"Wahpeton, ND",ND,49
+394818,"Magnolia, AR",AR,72
+394564,"Elk City, OK",OK,125
+394793,"Liberal, KS",KS,35
+395239,"Worthington, MN",MN,47
+394945,"Oskaloosa, IA",IA,34
+394959,"Pampa, TX",TX,90
+394470,"Clarksdale, MS",MS,28
+395130,"Sterling, CO",CO,86
+394371,"Beatrice, NE",NE,42
+394718,"Jamestown, ND",ND,46
+394784,"Levelland, TX",TX,103
+394656,"Grenada, MS",MS,82
+394837,"Maryville, MO",MO,53
+394337,"Arkadelphia, AR",AR,91
+394544,"Dumas, TX",TX,64
+394659,"Guymon, OK",OK,44
+394403,"Borger, TX",TX,75
+394979,"Pierre, SD",SD,37
+394700,"Huron, SD",SD,52
+786254,"Carroll, IA",IA,55
+395135,"Storm Lake, IA",IA,34
+394498,"Cordele, GA",GA,65
+394578,"Evanston, WY",WY,56
+395014,"Raymondville, TX",TX,35
+753914,"Port Lavaca, TX",TX,272
+753908,"Othello, WA",WA,45
+753925,"Vineyard Haven, MA",MA,119
+394965,"Parsons, KS",KS,69
+395003,"Price, UT",UT,123
+786263,"Ruidoso, NM",NM,224
+786257,"Fairmont, MN",MN,64
+394996,"Portales, NM",NM,82
+394805,"Los Alamos, NM",NM,29
+786265,"West Point, MS",MS,43
+394678,"Hereford, TX",TX,97
+845168,"Pearsall, TX",TX,34
+394330,"Andrews, TX",TX,65
+786253,"Brownsville, TN",TN,61
+395112,"Spirit Lake, IA",IA,96
+394594,"Fitzgerald, GA",GA,44
+753927,"Winnemucca, NV",NV,48
+394841,"Maysville, KY",KY,53
+395104,"Snyder, TX",TX,61
+394676,"Helena, AR",AR,28
+395111,"Spencer, IA",IA,44
+394342,"Atchison, KS",KS,38
+753880,"Fairfield, IA",IA,66
+395186,"Vermillion, SD",SD,30
+395142,"Sweetwater, TX",TX,76
+394968,"Pecos, TX",TX,19
+753929,"Zapata, TX",TX,38
+394743,"Ketchikan, AK",AK,34
+753874,"Craig, CO",CO,62
+395188,"Vernon, TX",TX,38
+394767,"Lamesa, TX",TX,39
